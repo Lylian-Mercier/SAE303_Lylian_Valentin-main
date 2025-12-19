@@ -4,7 +4,7 @@ import { resolve } from "path";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: "/SAE303_Lylian_Valentin/",
+  base: "/SAE303_Lylian_Valentin-main/",
   build: {
     rollupOptions: {
       input: {
